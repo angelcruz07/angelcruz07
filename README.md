@@ -1,4 +1,4 @@
-<h1 align="center" color="green" <span style="color:green;">Hi 👋, I'm Angel</h1>
+<h1 align="center"><span style="color:green;">Hi 👋, I'm Angel</span></h1>
 <h1 align="center">A passionate fullstack programmer who loves creating innovative and functional solutions. </h1>                     
 
 
