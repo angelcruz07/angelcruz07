@@ -12,8 +12,8 @@ I'm a technology enthusiast with a deep fascination for how applications can cha
 
   <h3 align="left">Languages and Tools:</h3>
 
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"><img src=""><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+ 
 <!---
 angelcruz07/angelcruz07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
