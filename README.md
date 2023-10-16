@@ -1,6 +1,5 @@
-##                                                       [Hi , I'm Angel]
------------------------------------------------------------------------------------------------------------------------------
-#                              A passionate fullstack programmer who loves creating solutions
+<h1 align="center">Hi 👋, I'm Angel</h1>
+<h1 align="center">A passionate fullstack programmer who loves creating innovative and functional solutions. </h1>                     
 
 
 ## About Me
