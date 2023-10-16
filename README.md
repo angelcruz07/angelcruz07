@@ -1,4 +1,14 @@
-- 👋 Hi, I’m @angelcruz07
+##                                                       I 👋 I'm Angel
+-----------------------------------------------------------------------------------------------------------------------------
+#                              A passionate fullstack programmer who loves creating solutions
+
+
+## About Me
+
+I'm a technology enthusiast with a deep fascination for how applications can change the way we live and work. My goal is to contribute to the tech community with solutions that make life easier and more exciting for everyone.
+
+
+
 - 🌱 I’m currently learning JS, Python.
 - 📫 How to reach me angelcruzsanchez126@gmail.com
 
