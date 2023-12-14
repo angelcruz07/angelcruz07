@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel Cruz</h1>
 <h3 align="center">A passionate FrontEnd programmer who loves creating innovative and functional solutions.</h3>
 
-- 🌱 I’m currently learning **JS, Python, PHP, React.**
+- 🌱 I’m currently learning **JS, React, Python**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-angelcruz.web.app/](https://portafolio-angelcruz.web.app/)
 
