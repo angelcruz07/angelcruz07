@@ -2,7 +2,7 @@
 <h2 align="center">A passionate FrontEnd programmer who loves creating innovative and functional solutions.</h3>
 
 - 🌱 I’m currently learning **JS, React, Python**
-- 👨‍💻 All of my projects are available at [angeldev.me/](https://angeldev.me/)
+- 👨‍💻 All of my projects are available at [angeldev.me](https://angeldev.me/)
 
 - 📫 How to reach me **angelcruzsanchez126@gmail.com**
 
