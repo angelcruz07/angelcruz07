@@ -2,7 +2,7 @@
 <h2 align="center">A passionate FrontEnd programmer who loves creating innovative and functional solutions.</h3>
 
 - 🌱 I’m currently learning **JS, React, Python**
-- 👨‍💻 All of my projects are available at [https://angelcruz.vercel.app/](https://angelcruz.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://angeldev.me/](angeldev.me/)
 
 - 📫 How to reach me **angelcruzsanchez126@gmail.com**
 
