@@ -8,7 +8,7 @@
 
 <h3 align="left" style="color: Green">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=tailwind,python,react,nextjs,mysql,astro,js,typescript,php" />
+<img src="https://skillicons.dev/icons?i=tailwind,python,react,nextjs,mysql,astro,js,typescript,php,arch" />
 
 ## GitHub Stats
 
