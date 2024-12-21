@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Angel Cruz | Software Developer</h1>
+<h1 align="center">Hi 👋, I'm Angel Cruz | Systems Engineer</h1>
 <h2 align="center">A passionate FrontEnd programmer who loves creating innovative and functional solutions.</h3>
 
-- 🌱 I’m currently learning **JS, React, NextJS**
+- 🌱 I’m studying **Computer Systems Engineering**
 - 👨‍💻 All of my projects are available at [angeldev.me](https://angeldev.me/)
 
 - 📫 How to reach me **angelcruzsanchez126@gmail.com**
 
 <h3 align="left" style="color: Green">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=tailwind,python,react,nextjs,mysql,astro,js,typescript,php,arch" />
+<img src="https://skillicons.dev/icons?i=tailwind,python,react,nextjs,mysql,astro,js,typescript,php,arch,java,c++" />
 
 ## GitHub Stats
 
