@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Angel Cruz | Systems Engineer</h1>
-<h2 align="center">A passionate FrontEnd programmer who loves creating innovative and functional solutions.</h3>
+<h1 align="center">Hi 👋, I'm Angel Cruz</h1>
+<h2 align="center">
+Frontend Engineer | Computer Systems Engineer | Clean Code Advocate | Building Scalable & Maintainable Web Apps.
+</h3>
 
 - 🌱 I’m studying **Computer Systems Engineering**
-- 👨‍💻 All of my projects are available at [kingdev.info](https://www.kingdev.info/)
-
+- 👨‍💻 All of my projects are available at [angelcruzsanchez.com](https://www.angelcruzsanchez.com/)
 - 📫 How to reach me **angelcruzsanchez126@gmail.com**
 
 <h3 align="left" style="color: Green">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=tailwind,python,react,nextjs,mysql,astro,js,typescript,php,arch,java,c++" />
-
-## GitHub Stats
-
-![angelcruz07's Stats](https://github-readme-stats.vercel.app/api?username=angelcruz07&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
-![angelcruz07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelcruz07&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+## Stack Frontend
+<img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,tailwind,astro" />
+## Stack Backend
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,php,java,c++,c#,nestjs" />
