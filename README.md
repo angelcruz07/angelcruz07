@@ -9,7 +9,8 @@ Frontend Engineer | Computer Systems Engineer | Clean Code Advocate | Building S
 
 <h3 align="left" style="color: Green">Languages and Tools:</h3>
 
-## Stack Frontend
-<img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,tailwind,astro" />
-## Stack Backend
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,php,java,c++,c#,nestjs" />
+## Frontend
+<img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,angular,tailwind,astro" />
+
+## Backend
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,php,java,c++,csharp,nestjs" />
